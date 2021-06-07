@@ -5,11 +5,12 @@ body{
 } 
 
 hr{
-    border: dotted;
-    border-bottom: none;
+    margin-top: 4%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 6px;
     width: 10%;
-    margin: 100px auto 100px auto;
-    color: gray;
 }
 
 h1{
